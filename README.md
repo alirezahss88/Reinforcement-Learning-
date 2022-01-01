@@ -1,13 +1,13 @@
 ***
 ## Hands-on Reinforcement learning
 ***
-The repo provides solution for multiple OpenAI environments using classical reinforcement learning methods. 
+The repo provides you with solution for multiple OpenAI environments using classical reinforcement learning methods. 
 So far, the Taxi-v3 and the MountainCar-v0 solutions are added.
 
-|Environmet| Algorithm | Model-based | 
-|:---------:|:-----------:|:-------------:|
-|Taxi-v3   | SARSA      |  No |
-|MountainCar-v0| Q-learning|No|
+|Environmet| Algorithm | Model-based | Link|
+|:---------:|:-----------:|:-------------:|:---:|
+|Taxi-v3   | SARSA      |  No | [link](https://github.com/alirezahss88/Reinforcement-Learning-/blob/master/Taxi%20v3%20with%20SARSA%20algorithm.ipynb) |
+|MountainCar-v0| Q-learning|No| [link](https://github.com/alirezahss88/Reinforcement-Learning-/blob/master/MountainCar-v0%20with%20Q-learning.ipynb) |
 
 
 
