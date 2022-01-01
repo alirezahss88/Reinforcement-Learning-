@@ -16,7 +16,7 @@ taxi.train()
 ```
 To test the trained model, call for the *test* method i.e.
 ```
-taxi.train()
+taxi.test()
 ```
 
 
