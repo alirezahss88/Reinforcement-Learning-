@@ -22,6 +22,10 @@ Also, You need to have installed the following packages before starting running 
 ```
 pip install gym
 ```
+To instantiate the environment, you need use the code below and repalce the *environment_name* with the name from the table above:
+```
+env = gym.make('environment_name')
+```
 - Numpy
 ```
 pip install numpy
