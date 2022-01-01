@@ -26,3 +26,7 @@ pip install gym
 ```
 pip install numpy
 ```
+- Pyglet
+```
+pip install pyglet
+```
