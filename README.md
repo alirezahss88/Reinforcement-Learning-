@@ -7,10 +7,14 @@ So far, the Taxi-v3 is added and solved using SARSA method and the MountainCar-v
 **Pre-requisits:**
 
 You need to have a concrete knowledge of Reinforcement Learning and the Python programming language specifically OOP.
-You need to have installed the following packages before starting running the code.
+
+Also, You need to have installed the following packages before starting running the code.
 
 - OpenAI gym
 ```
 pip install gym
 ```
--Numpy
+- Numpy
+```
+pip install numpy
+```
