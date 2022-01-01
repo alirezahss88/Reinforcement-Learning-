@@ -20,7 +20,8 @@ Also, You need to have installed the following packages before starting running 
 
 - OpenAI gym
 ```
-pip install gym
+pip install gym            #command prompt
+!pip install gym           #Jupyter Notebook
 ```
 To instantiate the environment, you need use the code below and repalce the *environment_name* with the name from the table above:
 ```
@@ -28,9 +29,11 @@ env = gym.make('environment_name')
 ```
 - Numpy
 ```
-pip install numpy
+pip install numpy            #command prompt
+!pip install numpy           #Jupyter Notebook
 ```
 - Pyglet
 ```
-pip install pyglet
+pip install pyglet            #command prompt
+!pip install pyglet           #Jupyter Notebook
 ```
