@@ -11,7 +11,7 @@ So far, the Taxi-v3 and the MountainCar-v0 solutions are added.
 
 To train each model, you will need to make an instance of the class and call for the *train* method. For example:
 ```
-taxi = Taxi-v3(env, n_epochs)
+taxi = Taxi3(env, n_epochs)
 taxi.train()
 ```
 To test the trained model, call for the *test* method i.e.
