@@ -18,6 +18,8 @@ You need to have a concrete knowledge of Reinforcement Learning and the Python p
 
 Also, You need to have installed the following packages before starting running the code.
 
+- [Python 3.6 or 3.7](https://www.python.org/downloads/release/python-360/) 
+
 - OpenAI gym
 ```
 pip install gym            #command prompt
