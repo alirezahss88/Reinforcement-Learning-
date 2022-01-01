@@ -9,7 +9,15 @@ So far, the Taxi-v3 and the MountainCar-v0 solutions are added.
 |Taxi-v3   | SARSA      |  No | [link](https://github.com/alirezahss88/Reinforcement-Learning-/blob/master/Taxi%20v3%20with%20SARSA%20algorithm.ipynb) |
 |MountainCar-v0| Q-learning|No| [link](https://github.com/alirezahss88/Reinforcement-Learning-/blob/master/MountainCar-v0%20with%20Q-learning.ipynb) |
 
-
+To train each model, you will need to make an instance of the class and call for the *train* method. For example:
+```
+taxi = Taxi-v3(env, n_epochs)
+taxi.train()
+```
+To test the trained model, call for the *test* method i.e.
+```
+taxi.train()
+```
 
 
 **Pre-requisits:**
