@@ -6,7 +6,12 @@ So far, the Taxi-v3 and the MountainCar-v0 solutions are added.
 
 |Environmet| Algorithm | Model-based | 
 |:---------:|:-----------:|:-------------:|
-|Taxi-v3   | SARSA      |  False |
+|Taxi-v3   | SARSA      |  No |
+|MountainCar-v0| Q-learning|No|
+
+
+
+
 **Pre-requisits:**
 
 You need to have a concrete knowledge of Reinforcement Learning and the Python programming language specifically OOP.
