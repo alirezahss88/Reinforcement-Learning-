@@ -2,7 +2,7 @@
 ## Hands-on Reinforcement learning
 
 The repo provides you with solutions for multiple OpenAI environments using classical reinforcement learning methods. 
-So far, the Taxi-v3 and the MountainCar-v0 solutions are added.
+So far, the Taxi-v3 and the MountainCar-v0 solutions have been added.
 
 |Environmet| Algorithm | Model-based | Link|
 |:---------:|:-----------:|:-------------:|:---:|
